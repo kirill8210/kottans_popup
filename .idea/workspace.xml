@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="740033c2-bc9c-450d-ac9b-37da127e3866" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,7 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660555442625</updated>
       <workItem from="1660555445129" duration="23798000" />
-      <workItem from="1660721763208" duration="17019000" />
+      <workItem from="1660721763208" duration="18595000" />
+      <workItem from="1662368669059" duration="9425000" />
     </task>
     <task id="LOCAL-00001" summary="Create popup">
       <created>1660741110816</created>
@@ -57,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660741110816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create popup">
+      <created>1660742331520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660742331520</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,21 +78,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Create popup" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1067" y="99" key="CommitChangelistDialog2" timestamp="1660741109525">
+    <state x="1067" y="99" key="CommitChangelistDialog2" timestamp="1660742330664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1067" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1660741109525" />
-    <state x="1222" y="247" key="FileChooserDialogImpl" timestamp="1660740722972">
+    <state x="1067" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1660742330664" />
+    <state x="1222" y="247" key="FileChooserDialogImpl" timestamp="1660745417363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1222" y="247" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1660740722972" />
+    <state x="1222" y="247" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1660745417363" />
+    <state x="1307" y="399" key="Github.ShareDialog" timestamp="1660742475896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1307" y="399" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1660742475896" />
     <state x="922" y="148" key="SettingsEditor" timestamp="1660742283611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1660742283611" />
-    <state x="1034" y="239" key="Vcs.Push.Dialog.v2" timestamp="1660742306456">
+    <state x="1034" y="239" key="Vcs.Push.Dialog.v2" timestamp="1660742353168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1034" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1660742306456" />
+    <state x="1034" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1660742353168" />
   </component>
 </project>
